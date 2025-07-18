@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=desenvolvedor+junior+Backend+em+Java;fazendo+o+Bacharel+em+Engenharia+Informatica;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+junior+Backend;+Cursando+Engenharia+Informatica;" alt="Headline" />
 </div>
 
 <h1 align="center">Olá 👋, Eu sou José Eduardo Ricardo</h1>
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="joca-jose" /> </p>
 
-- 🔭 Atualmente, eu trabalho na Ediçõe Novembro (https://edicoesnovembro.pressreader.com/).
+- 🔭 Atualmente, eu trabalho na Ediçõe Novembro https://edicoesnovembro.pressreader.com.
 
 - 🌱 Meus estudos atuais focam em **Backend (Java, MYSQL and SpringBoot)** e **Design Editorial (QuarqXpress, Adobe Photosho and Adobe InDesign)**.
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=vscode,java,html,css,angular,spring,mysql,maven)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=eclipse,vscode,java,spring,html,css,mysql,maven,postman,ps,windows)]()
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
 
