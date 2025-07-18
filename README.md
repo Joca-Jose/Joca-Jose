@@ -20,14 +20,15 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=eclipse,vscode,java,spring,html,css,mysql,maven,postman,ps,windows)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=eclipse,vscode,java,spring,html,css,mysql,maven,postman,git,github,ps,windows)]()
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
 
 
 <h3 align="left">Entre em contato comigo:</h3>
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/manualdofront/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:contatomanualdofront@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jos%C3%A9-ricardo-077b452aa/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:joseeduardoricardo6@gmail.com)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/joca_jose/)
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
