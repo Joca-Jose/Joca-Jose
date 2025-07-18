@@ -6,23 +6,21 @@
 </div>
 
 <h1 align="center">Olá 👋, Eu sou José Eduardo Ricardo</h1>
-<h3 align="center">{Seu-cargo-aqui} residente em {Cidade-Estado}/{País}.</h3>
-<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
+<h3 align="center"> Paginador de Design Editorial residente em Luanda/Angola.</h3>
+<p align="center">Actualmente estou trabalhando numa empresa de Comunicação e estou frequentando faculdade de Engenharia Informática, desde que comecei a cursa engenharia tenho amado muito porque tenho aprendido muito sobre tecnologia e estou gostando tanto de aprender a programar, já posso me considerar um programdor backend junior em Java pelo nível básico de conhecimento que eu tenho, tudo devido alguns projectos acadêmicos que eu fiz, como Sistema de gerenciamento de consultas médicas e sistema de versionamento de documento, Crindo uma API com springBoot e Frontend com Thymeleaf, HTML, CSS e JavaScript, penso em aprender programação a cada dia </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Joca-José" /> </p>
 
-> _🚨☝️ Lembre-se de trocar as citações por "manualdofront" no link acima pelo seu username do Github e remover esse comentário._
+- 🔭 Atualmente, eu trabalho na Ediçõe Novembro (https://edicoesnovembro.pressreader.com/).
 
-- 🔭 Atualmente, eu trabalho na [Nome-da-empresa](https://site-da-empresa.com/).
+- 🌱 Meus estudos atuais focam em **Backend (Java, MYSQL and SpringBoot)** e **Design Editorial (QuarqXpress, Adobe Photosho and Adobe InDesign)**.
 
-- 🌱 Meus estudos atuais focam em **Front End (Angular, JavaScript and TypeScript)** e **Application Design (Hexagonal Architecture)**.
-
-- 📫 Este é meu e-mail para contato: **contatomanualdofront@gmail.com**
+- 📫 Este é meu e-mail para contato: **joseeduardoricardo6@gmail.com**
 
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=java,html,css,angular)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=java,html,css,angular,springboot,MySql)]()
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
 
