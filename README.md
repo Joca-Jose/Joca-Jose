@@ -2,14 +2,14 @@
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=desenvolvedor+junior+Backend+em+Java;fazendo+o+Bacharel+em+Engenharia+Informatica;" alt="Headline" />
 </div>
 
 <h1 align="center">Olá 👋, Eu sou José Eduardo Ricardo</h1>
 <h3 align="center"> Paginador de Design Editorial residente em Luanda/Angola.</h3>
 <p align="center">Actualmente estou trabalhando numa empresa de Comunicação e estou frequentando faculdade de Engenharia Informática, desde que comecei a cursa engenharia tenho amado muito porque tenho aprendido muito sobre tecnologia e estou gostando tanto de aprender a programar, já posso me considerar um programdor backend junior em Java pelo nível básico de conhecimento que eu tenho, tudo devido alguns projectos acadêmicos que eu fiz, como Sistema de gerenciamento de consultas médicas e sistema de versionamento de documento, Crindo uma API com springBoot e Frontend com Thymeleaf, HTML, CSS e JavaScript, penso em aprender programação a cada dia </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="Joca-José" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="joca-jose" /> </p>
 
 - 🔭 Atualmente, eu trabalho na Ediçõe Novembro (https://edicoesnovembro.pressreader.com/).
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=java,html,css,angular,springboot,MySql)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=vscode,java,html,css,angular,spring,mysql,maven)]()
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar suas habilidades [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list)._
 
