@@ -28,7 +28,8 @@
 <h3 align="left">Entre em contato comigo:</h3>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jos%C3%A9-ricardo-077b452aa/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:joseeduardoricardo6@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](joseeduardoricardo6@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/joca_jose/)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.instagram.com/joca_jose/)
 
 > _🚨☝️ Encontre uma lista completa de ícones e opções para adicionar seus contatos [nesse link](https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list). **Lembre-se de atualizar os links para SUAS redes sociais!**_
