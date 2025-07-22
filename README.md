@@ -26,5 +26,4 @@
 <h3 align="left">Entre em contato comigo:</h3>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jos%C3%A9-ricardo-077b452aa/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](joseeduardoricardo6@gmail.com)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/joca_jose/)
