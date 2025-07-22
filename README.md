@@ -20,7 +20,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=eclipse,vscode,java,spring(https://docs.spring.io/spring-framework/reference/index.html),html,css,mysql,maven,postman,git,github,ps,windows)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=eclipse,vscode,java,spring,html,css,mysql,maven,postman,git,github,ps,windows)]()
 
 
 <h3 align="left">Entre em contato comigo:</h3>
