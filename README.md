@@ -7,9 +7,7 @@
 
 <h1 align="center">Olá 👋, Eu sou José Eduardo Ricardo</h1>
 <h3 align="center"> Paginador de Design Editorial residente em Luanda/Angola.</h3>
-<p align="center">Actualmente estou trabalhando numa empresa de Comunicação e estou frequentando faculdade de Engenharia Informática, desde que comecei a cursa engenharia tenho amado muito porque tenho aprendido muito sobre tecnologia e estou gostando tanto de aprender a programar, já posso me considerar um programdor backend junior em Java pelo nível básico de conhecimento que eu tenho, tudo devido alguns projectos acadêmicos que eu fiz, como Sistema de gerenciamento de consultas médicas e sistema de versionamento de documento, Crindo uma API com springBoot e Frontend com Thymeleaf, HTML, CSS e JavaScript, penso em aprender programação a cada dia </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="joca-jose" /> </p>
+<p align="center">Actualmente estou trabalhando numa empresa de Comunicação e estou frequentando faculdade de Engenharia Informática, desde que comecei a cursa engenharia tenho amado muito porque tenho aprendido muito sobre tecnologia e estou gostando tanto de aprender a programar, já posso me considerar um programdor backend junior em Java pelo nível básico de conhecimento que eu tenho, tudo devido alguns projectos acadêmicos que eu fiz, como Sistema de gerenciamento de consultas médicas e sistema de versionamento de documento, Crindo uma API com springBoot e Frontend com Thymeleaf, HTML, CSS e JavaScript, penso em aprender programação a cada dia </p
 
 - 🔭 Atualmente, eu trabalho na Ediçõe Novembro https://edicoesnovembro.pressreader.com.
 
